@@ -36,7 +36,7 @@ systemctl --user --now enable pipewire wireplumber
 ### Development Tools
 
 ```sh
-sudo pacman -S clang cmake composer dotnet-sdk gradle jdk-openjdk jq julia
+sudo pacman -S clang cmake composer dotnet-sdk gradle jdk-openjdk jq julia lua
 lua51 luarocks nodejs npm php python-pip python-pynvim r ruby rust stack yarn
 ```
 
@@ -76,7 +76,7 @@ lazygit
 yay -S tre-command lazydocker
 ```
 
-### Window Manager & Terminal
+### Window Manager
 
 ```sh
 sudo pacman -S i3-wm kitty polybar picom rofi yazi
@@ -85,7 +85,7 @@ sudo pacman -S i3-wm kitty polybar picom rofi yazi
 ### Xorg & Display Server
 
 ```sh
-sudo pacman -S xorg-server xorg-server-common xorg-server-devel
+sudo pacman -S xorg xorg-server xorg-server-common xorg-server-devel
 xorg-server-xephyr xorg-server-xnest xorg-server-xvfb xorg-sessreg
 xorg-setxkbmap xorg-smproxy xorg-x11perf xorg-xauth xorg-xbacklight xorg-xcmsdb
 xorg-xcursorgen xorg-xdpyinfo xorg-xdriinfo xorg-xev xorg-xgamma xorg-xhost
@@ -100,8 +100,8 @@ xorg-fonts-encodings xorg-iceauth xorg-mkfontscale xdg-utils
 ### Networking & Servers
 
 ```sh
-sudo pacman -S aws-cli docker nginx postgresql redis traefik samba ufw
-wireshark-qt network-manager-applet openconnect
+sudo pacman -S aws-cli docker nginx postgresql redis traefik samba wireshark-qt
+network-manager-applet openconnect
 ```
 
 ### Virtualization

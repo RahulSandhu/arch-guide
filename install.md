@@ -44,6 +44,7 @@ pacman -Sy
 ```sh
 # Partition /dev/nvme0n1
 gdisk /dev/nvme0n1
+
 # Create EFI Partition (1GB)
 # - Press n, then Enter for default partition number and starting sector
 # - Type "+1G" for size, then Enter
@@ -203,7 +204,7 @@ useradd -m -G wheel -s /bin/zsh rahul
 passwd rahul
 
 # Edit the sudoers file to grant sudo privileges to the wheel group
-visudo  # Uncomment the line: %wheel ALL=(ALL:ALL) ALL
+visudo # Uncomment the line: %wheel ALL=(ALL:ALL) ALL
 ```
 
 ## 19. Enable SSD Trim Support
