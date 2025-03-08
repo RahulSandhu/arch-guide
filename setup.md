@@ -100,8 +100,8 @@ xorg-fonts-encodings xorg-iceauth xorg-mkfontscale xdg-utils
 ### Networking & Servers
 
 ```sh
-sudo pacman -S aws-cli docker nginx postgresql redis traefik samba wireshark-qt
-network-manager-applet openconnect
+sudo pacman -S aws-cli docker nginx postgresql redis traefik samba sqlite
+wireshark-qt network-manager-applet openconnect
 ```
 
 ### Virtualization
