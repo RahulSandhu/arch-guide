@@ -1,39 +1,38 @@
-# 🚀 Arch Linux Install & Setup Guide
+# Arch Linux Install & Setup Guide
 
-A concise guide for installing and configuring Arch Linux.
+Quick guide for installing and setting up Arch Linux.
 
-## 📌 Contents
+## Contents
 
-- **💿 Installation (`install.md`)**: Step-by-step Arch Linux installation.
-- **🔧 Setup (`setup.md`)**: Post-installation setup, including Wi-Fi, updates,
-essential tools, and desktop environment.
+- **Installation**: See `install.md` for Arch Linux installation steps.
+- **Setup**: See `setup.md` for post-installation setup.
 
-## 🛠 Installation Steps
+## Installation Steps
 
-1. **💽 Disk Prep**: Partition drives (EFI, swap, root, home) & format.
-2. **🖥️ Base Install**: Mount partitions, install base system (`pacstrap`), generate `fstab`.
-3. **⚙️ System Config**: Set hostname, locale, timezone, enable services.
-4. **🚀 Bootloader**: Install GRUB, GPU drivers, and microcode.
+1. Partition drives (EFI, swap, root, home) and format.
+2. Mount partitions, install base system with `pacstrap`, generate `fstab`.
+3. Set hostname, locale, timezone, enable services.
+4. Install GRUB, GPU drivers, and microcode.
 
-## ⚡ Post-Installation Setup
+## Post-Installation Setup
 
-1. **🌐 Network & Updates**: Connect Wi-Fi, update packages, optimize mirrors.
-2. **📦 Software & AUR**: Install `yay` and essential utilities.
-3. **🎨 Customization**: Configure desktop & user folders.
+1. Connect Wi-Fi, update system, optimize mirrors.
+2. Install `yay` and essential software.
+3. Set up desktop environment and user folders.
 
-## ✅ Requirements
+## Requirements
 
-- Bootable USB with Arch Linux ISO.
-- Stable internet connection.
-- Basic Linux CLI knowledge.
-- Backup of important data (partitioning risk).
+- Bootable USB with Arch Linux ISO
+- Internet connection
+- Basic Linux CLI knowledge
+- Backup data (partitioning risk)
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-Installing Arch Linux requires caution. Follow the [Arch
-Wiki](https://wiki.archlinux.org/) for official instructions. The author is not
-liable for any data loss or system issues.
+Installing Arch Linux requires caution. Check the [Arch
+Wiki](https://wiki.archlinux.org/) for official instructions. Author is not
+responsible for data loss or issues.
 
-## 📄 License
+## License
 
-Licensed under the [MIT License](LICENSE).
+MIT License. See [LICENSE](LICENSE).
