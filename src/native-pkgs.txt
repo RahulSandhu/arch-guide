@@ -54,6 +54,8 @@ linux
 linux-firmware
 lua51
 luarocks
+mariadb-clients
+mariadb-libs
 mesa
 mpv
 neovim
@@ -108,6 +110,7 @@ tuned
 tuned-ppd
 udisks2
 ufw
+unixodbc
 unzip
 v4l-utils
 virtualbox

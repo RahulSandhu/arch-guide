@@ -12,5 +12,8 @@ pacman -Qenq > "$TARGET_DIR/native-pkgs.txt"
 # Save Foreign (AUR/Local) packages that were explicitly installed
 pacman -Qmeq > "$TARGET_DIR/foreign-pkgs.txt"
 
-# Send notification 
-/usr/bin/notify-send "System" "Packages updated in $TARGET_DIR" --icon=system-run
+# Git push changes
+git add .
+COMMIT_MESSAGE="updated at $(date '+%Y-%m-%d %H:%M:%S')"
+git commit -m "$COMMIT_MESSAGE"
+git push
