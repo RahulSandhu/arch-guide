@@ -13,7 +13,7 @@ pacman -Qenq > "$TARGET_DIR/native-pkgs.txt"
 pacman -Qmeq > "$TARGET_DIR/foreign-pkgs.txt"
 
 # Git push changes
-git add .
+git add . > /dev/null 2>&1
 COMMIT_MESSAGE="updated at $(date '+%Y-%m-%d %H:%M:%S')"
-git commit -m "$COMMIT_MESSAGE"
-git push
+git commit -m "$COMMIT_MESSAGE" > /dev/null 2>&1
+git push > /dev/null 2>&1
