@@ -22,10 +22,4 @@ Quick guide for installing and setting up Arch Linux.
 2. Install `yay` and essential software.
 3. Set up desktop environment.
 
-## ⚠️ Disclaimer
-
-Installing Arch Linux requires caution. Check the [Arch
-Wiki](https://wiki.archlinux.org/) for official instructions. Author is not
-responsible for data loss or issues.
-
 </div>
