@@ -29,6 +29,7 @@ fzf
 gcc-fortran
 git
 github-cli
+go
 grim
 grub
 gvfs-gphoto2
@@ -115,6 +116,7 @@ unzip
 v4l-utils
 virtualbox
 virtualbox-host-modules-arch
+visidata
 vlc
 vlc-plugins-all
 vulkan-intel
