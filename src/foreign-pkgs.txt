@@ -1,5 +1,0 @@
-galendae-git
-pinta
-wl-screenrec
-yay
-yay-debug
