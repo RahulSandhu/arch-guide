@@ -13,6 +13,7 @@ bpytop
 brightnessctl
 composer
 cronie
+dbeaver
 docker
 dosfstools
 dua-cli
