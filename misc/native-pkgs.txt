@@ -20,6 +20,7 @@ dua-cli
 duf
 e2fsprogs
 efibootmgr
+exfat-utils
 eza
 fastfetch
 fd
@@ -83,9 +84,11 @@ r
 rclone
 reflector
 ripgrep
+rsync
 ruby
 ruby-erb
 rust
+sg3_utils
 sof-firmware
 stow
 sudo
