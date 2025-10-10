@@ -162,10 +162,10 @@ fwupdmgr update
 
 ```bash
 # Save Native (Arch Repo) packages that were explicitly installed
-sudo pacman -S --needed - < native-pkgs.txt
+sudo pacman -S --needed - < native_pkgs.txt
 
 # Save Foreign (AUR/Local) packages that were explicitly installed
-yay -S --needed - < foreign-pkgs.txt
+yay -S --needed - < foreign_pkgs.txt
 ```
 
 </div>

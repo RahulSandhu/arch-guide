@@ -6,6 +6,7 @@ base
 base-devel
 bat
 biber
+bitwarden
 blueman
 bluez
 bluez-utils
