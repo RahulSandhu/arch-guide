@@ -1,5 +1,6 @@
 galendae-git
 pinta
+swayosd-git
 wl-screenrec
 yay
 yay-debug
