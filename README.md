@@ -22,4 +22,9 @@ Quick guide for installing and setting up Arch Linux.
 2. Install `yay` and essential software.
 3. Set up desktop environment.
 
+## 🎨 Dotfiles for the Full Arch Experience
+
+For a complete and customized Arch Linux environment, check out the dotfiles
+submodule.
+
 </div>
