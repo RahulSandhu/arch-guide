@@ -75,6 +75,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 playerctl
+pyenv
 python-i3ipc
 python-pip
 python-pynvim
