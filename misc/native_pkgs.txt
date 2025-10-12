@@ -61,7 +61,6 @@ luarocks
 mariadb-clients
 mariadb-libs
 mesa
-mpv
 neovim
 networkmanager
 nodejs
