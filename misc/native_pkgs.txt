@@ -137,6 +137,7 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr
 xdg-user-dirs
 xf86-input-libinput
+xorg-xwayland
 yazi
 zathura
 zathura-pdf-mupdf
