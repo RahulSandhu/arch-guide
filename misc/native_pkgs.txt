@@ -110,7 +110,6 @@ texlive-latexrecommended
 texlive-mathscience
 tldr
 tmux
-trash-cli
 tree
 ttf-jetbrains-mono-nerd
 tuned
