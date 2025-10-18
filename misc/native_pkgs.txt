@@ -99,7 +99,6 @@ sway
 swaybg
 swayidle
 swaync
-task
 texlive-basic
 texlive-bibtexextra
 texlive-binextra
