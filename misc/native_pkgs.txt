@@ -15,7 +15,6 @@ brightnessctl
 composer
 cronie
 dbeaver
-diff-so-fancy
 docker
 dosfstools
 dua-cli
