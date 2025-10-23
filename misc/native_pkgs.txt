@@ -33,6 +33,7 @@ gcc-fortran
 git
 github-cli
 go
+grex
 grim
 grub
 gvfs-gphoto2
