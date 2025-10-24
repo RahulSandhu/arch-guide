@@ -26,6 +26,7 @@ eza
 fastfetch
 fd
 firefox
+font-manager
 fuse2
 fwupd
 fzf
@@ -128,6 +129,7 @@ vulkan-intel
 waybar
 wev
 wget
+wireless_tools
 wireplumber
 wl-clipboard
 wofi
